@@ -1,0 +1,15 @@
+Žalgiris, Thomas, Walkup, 1992:12:30, 193, gynėjas, 10, 124
+Žalgiris, KC, Rivers, 1987:03:01, 196, gynėjas, 10, 180
+Žalgiris, Nigel, Hayes, 1994:12:16, 195, puolėjas, 10, 112
+Žalgiris, Zach, LeDay, 1994:05:30, 200, centras, 7, 100
+Žalgiris, Marius, Grigonis, 1994:04:26, 199, gynėjas, 10, 270
+Neptūnas, Tomas, Delininkaitis, 1982:06:11, 188, gynėjas, 10, 98
+Neptūnas, Simas, Galdikas, 1987:01:03, 200, centras, 8, 111
+Neptūnas, Gytis, Masiulis, 1998:04:10, 205, puolėjas, 10, 150
+Neptūnas, Deividas, Gailius, 1988:04:26, 195, gynėjas, 10, 270
+Neptūnas, Martynas, Mažeika, 1985:01:29, 199, puolėjas, 5, 85
+Šiauliai, Rokas, Gustys, 1994:08:22, 210, centras, 9, 210
+Šiauliai, Kevin, Hardy, 1993:05:27, 190, gynėjas, 9, 180
+Šiauliai, Evaldas, Šaulys, 1993:03:04, 190, gynėjas, 8, 150
+Šiauliai, Aurimas, Urbonas, 1993:03:30, 185, puolėjas, 9, 270
+Šiauliai, Antanas, Udras, 1992:06:01, 200, centras, 7, 120

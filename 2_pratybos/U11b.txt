@@ -1,0 +1,3 @@
+Žalgiris, 10, 9
+Neptūnas, 10, 7
+Šiauliai, 9, 8
